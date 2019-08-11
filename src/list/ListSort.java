@@ -1,6 +1,10 @@
 package list;
 import java.util.LinkedList;
-
+/**
+ * 链表的排序
+ * 1 快速排序
+ * 2 选择排序
+ * */
 
 
 
@@ -153,14 +157,5 @@ public class ListSort {
 		//注意如果smallpre为null，说明small没有移动过，也就是small就是头部
 		return smallpre;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 }
